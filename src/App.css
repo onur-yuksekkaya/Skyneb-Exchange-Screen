@@ -1,0 +1,45 @@
+* { 
+    margin:0;
+    padding:0;
+    color:white;
+}
+
+
+body { 
+    background-color:#161e25!important;
+}
+.currency-card{
+    background-color:#1D2120 !important;
+}
+.currency-border{
+    border:1px solid #334D5C!important;
+}
+.currency-card  .red{
+    background-color: #863A32;
+}
+.currency-card  .green{
+    background-color: #267353;
+}
+.currency-card  .gray{
+    background-color: gray;
+}
+
+.currency-card  .left, .currency-card  .right{
+    border-color: #1D2120 !important;
+}
+.bottom-rows{
+    font-size: 0.8em;
+}
+.tradingview-widget-copyright{
+    display:none  !important;
+}
+th { 
+    border: 1px solid rgb(95, 95, 95);
+    font-weight: 400;
+}
+
+table,  td {
+    border-bottom: 1px solid rgb(95, 95, 95);
+    font-size: 0.8rem;
+    font-weight: 200!important;
+  }
